@@ -1,0 +1,3 @@
+﻿<http://datadock.io/jennet/crispy-broccoli/id/dataset/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <http://datadock.io/jennet/crispy-broccoli/metadata>.
+<http://datadock.io/jennet/crispy-broccoli/id/dataset/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Veg Aisle" <http://datadock.io/jennet/crispy-broccoli/metadata>.
+<http://datadock.io/jennet/crispy-broccoli/id/dataset/publisher> <http://xmlns.com/foaf/0.1/name> "Veg Aisle" <http://datadock.io/jennet/crispy-broccoli/metadata>.
